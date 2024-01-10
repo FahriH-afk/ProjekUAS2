@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Pertemuan7</string>
+    <string name="back_button">kembali</string>
+    <string name="confirm">konfirmasi</string>
+    <string name="next">lanjut</string>
+    <string name="cancel">batal</string>
+    <string name="Lensa16mm">Lensa 16mm</string>
+    <string name="Lensa24mm">Lensa 24mm</string>
+    <string name="Lensa50mm">Lensa 50mm</string>
+    <string name="Lensa85mm">Lensa 85mm</string>
+    <string name="Lensa100mm">Lensa 100mm</string>
+    <string name="KameraSony">Kamera Sony</string>
+    <string name="KameraCanon">Kamera Canon</string>
+    <string name="KameraNikon">Kamera Nikon</string>
+    <string name="KameraFujifilm">Kamera Fujifilm</string>
+    <string name="KameraLumix">Kamera Lumix</string>
+    <string name="order_summary">Ringkasan Order</string>
+    <string name="send">Send order to another app</string>
+    <string name="quantity">jumlah</string>
+    <string name="alat">Alat Yang Disewa</string>
+    <string name="subtotal_price">Subtotal : Rp %s</string>
+    <string name="total_price">Total %s</string>
+    <string name="namaPelanggan">Nama</string>
+    <string name="noTelepon">NoTelp</string>
+    <string name="Alamat">alamat</string>
+    <string name="nextkamera">Kamera</string>
+    <string name="nextlensa">Lensa</string>
+</resources>

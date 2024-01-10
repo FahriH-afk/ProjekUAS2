@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "239675699600",
+    "project_id": "tesuas-4bd12",
+    "storage_bucket": "tesuas-4bd12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239675699600:android:70ce191017d5fd9aa9c315",
+        "android_client_info": {
+          "package_name": "com.example.projekuas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAOWa4ONPlEf9cvD3HenyC5t4zQJE-K5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239675699600:android:732cefa232603eeca9c315",
+        "android_client_info": {
+          "package_name": "com.example.sewakamera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAOWa4ONPlEf9cvD3HenyC5t4zQJE-K5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
